@@ -15,7 +15,6 @@ The network topology consists of the following components:
 - **Access Points:** Admin/IT, Access Point1, and Access Point2
 - **Devices:** PCs (PC0, PC1, PC2, PC3, PC4, PC5) and Printers (Printer0, Printer1, Printer2)
 
-![Network Topology](image.png)
 
 ---
 
