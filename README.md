@@ -68,18 +68,10 @@ The **2960 Switch (Switch0)** is configured with multiple VLANs:
 3. **MOTD (Message of the Day):**
    - Configured a message for both the router and the switch for authentication and identification.
 
----
 
-## How to Use
-1. Open the provided **Cisco Packet Tracer** file.
-2. Follow the network topology and inspect the configurations.
-3. Test and verify the network functionalities:
-   - DHCP leases.
-   - Device connectivity (e.g., pings between devices).
-   - Security features (e.g., user access verification and restricted ports).
 
 ---
 
 ## Author
 **Jaik Iype**  
-ID Number: 24159379
+
